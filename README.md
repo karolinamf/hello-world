@@ -1,2 +1,3 @@
 # hello-world
-Meu repositório.
+
+Hi everyone! I´m Karol and I´m always excited to learn new things!
